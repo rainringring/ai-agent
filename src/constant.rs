@@ -1,0 +1,1 @@
+pub const DEEPSEEK_FLASH_4_1: &'static str = "deepseek-flash";
